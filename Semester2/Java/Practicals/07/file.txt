@@ -1,8 +1,0 @@
-/start
-Name :
-      //Anshul Verma
-College :
-      //ARSD College
-Course :
-      //BSc (Hons) Computer Science
-//end
