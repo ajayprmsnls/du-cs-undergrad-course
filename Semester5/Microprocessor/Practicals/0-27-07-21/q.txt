@@ -1,3 +1,0 @@
-Q. Copy the contents of BX into CX
-TINY code segment
-SMALL--- code segment + data segment

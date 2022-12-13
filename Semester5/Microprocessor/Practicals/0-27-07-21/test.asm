@@ -1,9 +1,0 @@
-;Q. Copy the contents of BX into CX
-
-.MODEL TINY
-.CODE
-.STARTUP
-MOV BX, 123H
-MOV CX, BX
-.EXIT
-END

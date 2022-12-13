@@ -1,2 +1,0 @@
-This is the sample input file.
- This is the second line.
